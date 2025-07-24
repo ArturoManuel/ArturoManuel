@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Arturo Noriega
 
 I'm a passionate **Full Stack Developer** with experience in **mobile** and **frontend development**, and a strong background in **cloud infrastructure** using **Google Cloud Platform (GCP)** and **Amazon Web Services (AWS)**.  
-I enjoy building scalable, efficient, and user-friendly applications that deliver real impact.
+I'm also proficient with **Firebase**, Google's platform for building scalable **mobile and web applications**, using tools like Authentication, Firestore, Cloud Messaging, and Hosting.  
+For mobile development, I work with **Flutter** and **React Native**, building cross-platform apps with great user experience.
 
 ---
 
@@ -10,17 +11,19 @@ I enjoy building scalable, efficient, and user-friendly applications that delive
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
 ---
 
-## ☁️ Cloud Skills
+## ☁️ Cloud & Platforms
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 ---
 
@@ -36,9 +39,11 @@ I enjoy building scalable, efficient, and user-friendly applications that delive
 ## 🌱 About Me
 - 🚀 Always learning and exploring new technologies.
 - 🧩 Passionate about solving real-world problems through code.
+- 📱 Focused on mobile-first and cloud-based solutions.
 - 🤝 Open to collaboration and exciting tech opportunities.
 
 ---
 
 📫 **Let's connect:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arturo%20Noriega-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/arturo-manuel-noriega-noriega-7163b3252/)
+
