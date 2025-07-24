@@ -1,28 +1,44 @@
 # 👋 Hi, I'm Arturo Noriega
 
-Welcome to my GitHub profile! I'm passionate about building IoT platforms, cloud-based solutions, and scalable systems for smart energy and telecom.
-
-## 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-
-## 🛠 Tools:
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-## 🌱 About Me
-- 💡 I'm currently building real-time dashboards for smart grids and event systems.
-- 🔭 I’m working on a private cloud orchestrator for academic research.
-- 🌍 Based in Lima, Perú.
+I'm a passionate **Full Stack Developer** with experience in **mobile** and **frontend development**, and a strong background in **cloud infrastructure** using **Google Cloud Platform (GCP)** and **Amazon Web Services (AWS)**.  
+I enjoy building scalable, efficient, and user-friendly applications that deliver real impact.
 
 ---
 
-📫 **Let’s connect:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&labelColor=blue&style=flat)](https://www.linkedin.com/in/arturo-noriega)
+## 💻 Tech Stack
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
+---
+
+## ☁️ Cloud Skills
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+
+---
+
+## 🛠 Tools
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=flat&logo=jetbrains&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat&logo=xcode&logoColor=white)
+
+---
+
+## 🌱 About Me
+- 🚀 Always learning and exploring new technologies.
+- 🧩 Passionate about solving real-world problems through code.
+- 🤝 Open to collaboration and exciting tech opportunities.
+
+---
+
+📫 **Let's connect:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arturo%20Noriega-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/arturo-manuel-noriega-noriega-7163b3252/)
