@@ -47,3 +47,12 @@ For mobile development, I work with **Flutter** and **React Native**, building c
 📫 **Let's connect:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arturo%20Noriega-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/arturo-manuel-noriega-noriega-7163b3252/)
 
+## 📱 Published Apps
+
+Here are some of my mobile apps available on the Play Store:
+
+- 🔗 [**AyniLink**](https://play.google.com/store/apps/details?id=com.arturonoriega.aynilink) – A platform designed to connect people through local video content.
+- 🔗 [**Campis App**](https://play.google.com/store/apps/details?id=com.campis.app) – A tool for farmers and agronomists to manage and share agricultural knowledge.
+
+
+
